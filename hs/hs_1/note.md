@@ -75,6 +75,7 @@ This work reports a **MoS2/WSe2 p–n van der Waals heterostructure memtransisto
 **Figure 2 – Resistive Switching & Optoelectronic Characterization**
 
 * **(a)** Ids–Vds curves over 30 cycles: shows bipolar switching (HRS↔LRS), stable over repeated cycles.
+  * [bipolar vs ambipolar](./docs/fig2-2.md)
 * **(b)** Log–log plot: HRS shows I ∼ V² (Child’s law), high-bias shows SCLC behavior.
   * [fig2.md](./docs/fig2.md)
   * [SCLC I-V relation](../../mos2/mos2_1/note.md)
