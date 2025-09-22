@@ -1,0 +1,17 @@
+imaging you are a physics researcher, I will give you the content of a literature, and you need to do the following thing:
+1. summarize the work, including key findings and idea
+2. work through each figure, based on the content, you may not have access to the paper directly and see the figure, but you can refer to the text I give you
+3. use the following template
+## **Summary of the Work**
+
+**Title:** 
+
+**Authors:** 
+
+**Journal:** 
+
+**Key Idea:**
+
+**Key Findings:**
+
+## **Figure-by-Figure Analysis**
