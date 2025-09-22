@@ -91,6 +91,7 @@ This work reports a **MoS2/WSe2 p–n van der Waals heterostructure memtransisto
 
 * **(a)** Schematic of artificial synapse using the memtransistor.
 * **(b)** EPSC/IPSC: EPSC increases with positive gate pulses, IPSC decreases with negative pulses.
+  * explanation: [EPSC & IPSC](./docs/fig3.md)
 * **(c)** LTP/LTD: sequential pulses modulate device conductance.
 * **(d)** Endurance test: 10 consecutive LTP/LTD cycles show stable conductance changes.
 * **(e)** PPF index vs pulse interval: shorter intervals enhance facilitation. Inset shows PSCs for two pulses.
