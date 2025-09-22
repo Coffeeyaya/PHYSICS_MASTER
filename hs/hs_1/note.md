@@ -78,6 +78,7 @@ This work reports a **MoS2/WSe2 p–n van der Waals heterostructure memtransisto
 * **(b)** Log–log plot: HRS shows I ∼ V² (Child’s law), high-bias shows SCLC behavior.
   * [fig2.md](./docs/fig2.md)
   * [SCLC I-V relation](../../mos2/mos2_1/note.md)
+    * *Observation of trap-assisted space charge limited conductivity in short channel MoS2 transistor*
 * **(c,d)** Energy band diagrams before and after MoS2/WSe2 contact, showing Schottky barriers and trap states.
 * **(e)** Band diagram under illumination: photogenerated carriers reduce barrier height, enhancing current.
 * **(f)** Transfer characteristics at Vds = 1 V: increasing gate voltage range enhances hysteresis, confirming gate modulation.
