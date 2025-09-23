@@ -32,7 +32,7 @@ The study investigates the **high-bias** transport in short-channel single-layer
 1. **Trap-free space charge limited current (Child’s law, 1D channel):**
 
 $$
-J_{MG} = \frac{9}{8} \, \varepsilon_0 \varepsilon_r \, \mu \, \frac{V^2}{L^3}
+J_{MG} = \frac{9}{8} \ \varepsilon_0 \varepsilon_r \ \mu \ \frac{V^2}{L^3}
 $$
 
 * Mott-Gurney relation
@@ -49,7 +49,7 @@ $$
 2. **Trap-limited SCLC with an exponential trap distribution:**
 
 $$
-J = \frac{\mu N_c}{q^{\,m-2}} \, (\frac{2m - 1}{m})^m (\frac{\varepsilon_0 \varepsilon_r (m-1)}{N_t m})^l \, \frac{V^m}{L^{\,2m-1}}
+J = \frac{\mu N_c}{q^{\,m-2}} \ (\frac{2m - 1}{m})^m (\frac{\varepsilon_0 \varepsilon_r (m-1)}{N_t m})^l \ \frac{V^m}{L^{\,2m-1}}
 $$
 
 * $N_c$: effective density of states in conduction band
@@ -64,7 +64,7 @@ This captures the steeper-than-quadratic current scaling ($I \propto V^m$) at lo
 3. **Critical voltage for trap filling (temperature independent):**
 
 $$
-V_c = \frac{q N_t L^2}{2 \, \varepsilon_0 \varepsilon_r}
+V_c = \frac{q N_t L^2}{2 \ \varepsilon_0 \varepsilon_r}
 $$
 
 * $V_c$: voltage where all trap states are filled (intersection point of I–V curves at different T)
